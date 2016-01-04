@@ -1,0 +1,1 @@
+package hu.infokristaly.back.domain;
